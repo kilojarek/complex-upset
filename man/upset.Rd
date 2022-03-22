@@ -28,7 +28,7 @@ upset(
 \arguments{
 \item{data}{a dataframe including binary columns representing membership in classes}
 
-\item{intersect}{which columns should be used to compose the intersection}
+\item{intersect}{a character vector with columns that should be used to compose the intersection}
 
 \item{base_annotations}{a named list with default annotations (i.e. the intersection size barplot)}
 
